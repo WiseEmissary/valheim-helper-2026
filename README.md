@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=74&pause=240&color=00CED1&center=true&vCenter=true&width=1580&lines=VALHEIM+HACK+2026;GOD+MODE+•+INFINITE+RESOURCES;DOMINATE+THE+TENTH+WORLD" alt="Valheim Hack 2026" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/61d04bd1-6a21-498a-a71c-53d0ad8c00da" />
 </div>
 
 <br/>
